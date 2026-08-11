@@ -1,7 +1,7 @@
-# Petr Glaser / BleedingDev
+# Petr "BleedingDev" Glaser
 
-AI Engineering Consultant. Building an AI engineering platform for
-production-ready software.
+AI Engineering Consultant. Building Codebase Radar, a quality enforcement
+platform for real codebases.
 
 I help software teams move faster with AI without losing quality, context, or
 control.
@@ -10,9 +10,9 @@ control.
 
 - AI engineering adoption
 - coding-agent workflows
+- architecture, code analysis, and code hardening
 - project memory, decision records, and standards
 - quality checks, logs, and observability
-- production-ready AI-assisted development
 - talks, workshops, and conference appearances
 
 ## Proof
